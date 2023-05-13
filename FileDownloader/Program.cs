@@ -6,3 +6,5 @@
 await FileDownloader.FileDownloader.DownloadFile(
     "https://github.com/rodion-m/SystemProgrammingCourse2022/raw/master/files/payments_19mb.zip",
     progress);
+
+Console.ReadKey();
